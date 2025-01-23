@@ -2,8 +2,8 @@
 ![Badge de terminacion](https://img.shields.io/badge/Release_date-20_January-blue?style=for-the-badge)
 ![Badge de licencia](https://img.shields.io/badge/License-Alura_Latam-brightblue?style=for-the-badge)
 
-[Pagina del proyecto](![Captura de pantalla (49)](https://github.com/user-attachments/assets/a3492216-67da-466b-a80f-56ec9f781110)
-)
+[Pagina del proyecto]![Captura de pantalla (49)](https://github.com/user-attachments/assets/7dcb0b45-1c74-41fe-8db8-6c549fc5ab81)
+
 
 ## Índice
 1. [Descripción del Proyecto](#descripción-del-proyecto)
