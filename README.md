@@ -1,15 +1,16 @@
 # Amigo Secreto 🎉
-https://img.shields.io/badge/Release_date-20_January-blue?style=for-the-badge
-https://img.shields.io/badge/License-Alura_Latam-brightblue?style=for-the-badge
+![Badge de terminacion](https://img.shields.io/badge/Release_date-20_January-blue?style=for-the-badge)
+![Badge de licencia](https://img.shields.io/badge/License-Alura_Latam-brightblue?style=for-the-badge)
 
-[Pagina del proyecto](https://imgur.com/a/Nk97EcV)
+[Pagina del proyecto](![Captura de pantalla (49)](https://github.com/user-attachments/assets/a3492216-67da-466b-a80f-56ec9f781110)
+)
 
 ## Índice
 1. [Descripción del Proyecto](#descripción-del-proyecto)
 2. [Estado del Proyecto](#estado-del-proyecto)
 3. [Características de la Aplicación](#características-de-la-aplicación)
 4. [Tecnologías Aplicadas](#tecnologías-aplicadas)
-5. [Demostración de la Aplicación Amigo Secreto](#Demostración-de-la-Aplicación-Amigo-Secreto)
+5. [Demostración de la Aplicación Amigo Secreto](#demostración-de-la-aplicación-amigo-secreto)
 6. [Conclusión](#conclusión)
 
 ---
